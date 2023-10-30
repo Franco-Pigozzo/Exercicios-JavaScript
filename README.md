@@ -1,1 +1,3 @@
 # Exercicios-JavaScript
+
+Para estudo 
